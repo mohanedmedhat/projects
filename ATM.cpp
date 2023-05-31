@@ -1,5 +1,20 @@
 #include <iostream>
 using namespace std;
+
+    /* PASSWORD FOR Mohaned IS 5555" 
+      PASSWORD FOR Ziad    IS 6666 "
+      PASSWORD FOR Hamada  IS 7777 "
+      PASSWORD FOR Ahmed   IS 8888 " */
+
+
+
+
+
+
+
+
+
+
 void printstar(char ch, int n)
 {
     for (int i = 1; i <= n; i++)
@@ -24,10 +39,9 @@ int main()
     cout << "\n \n";
     int password;
     int pincode;
-    // PASSWORD FOR Mohaned IS 5555" ;
-    // PASSWORD FOR Ziad    IS 6666 ";
-    // PASSWORD FOR Hamada  IS 7777 ";
-    // PASSWORD FOR Ahmed   IS 8888 ";
+    
+
+    
     printstar('*', 80);
     for (int i = 1; i <= 10; i++)
     {
