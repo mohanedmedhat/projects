@@ -1,5 +1,5 @@
 # Automated Teller Machine (ATM) Project
-- **This project is an implementation of an Automated Teller Machine (ATM) system using C++. It allows users to perform various banking transactions such as checking balance, withdrawing        money, and depositing money. The project includes a simple user interface and password-based authentication for different users.
+- This project is an implementation of an Automated Teller Machine (ATM) system using C++. It allows users to perform various banking transactions such as checking balance, withdrawing        money, and depositing money. The project includes a simple user interface and password-based authentication for different users.
 
 
 ## Features
