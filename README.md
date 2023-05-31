@@ -25,9 +25,3 @@ To use this project, follow these steps:
 4. Choose from the available options to perform transactions.
 5. Follow the on-screen prompts to complete each transaction.
 6. Exit the system when finished.
-
-## Contributing
-
-Contributions are welcome! If you want to contribute to this project, please follow the guidelines in the [CONTRIBUTING.md](CONTRIBUTING.md) file.
-
-
